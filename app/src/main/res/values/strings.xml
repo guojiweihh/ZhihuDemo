@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZhihuDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_star">Star</string>
+    <string name="date_format">EEE, MMM d, yyyy</string>
+    <string name="action_bar_label">Daily</string>
+    <string name="favourite">Favourite</string>
+</resources>
